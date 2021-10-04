@@ -1,7 +1,7 @@
 <%-- 
     Document   : arithmeticcalculator
     Created on : Sep 25, 2021, 7:08:42 PM
-    Author     : 854292
+    Author     : Liam Zimmerman
 --%>
 
 <%@page contentType="text/html" pageEncoding="UTF-8"%>
